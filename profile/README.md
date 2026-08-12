@@ -23,7 +23,7 @@ building things, breaking things, learning things
 ```ts
 const yuaxx = {
   location:         "Poland",
-  websites:         ["discordforge.org", "wiretrip.xyz"],
+  websites:         ["discordforge.org", "wiretrip.lol"],
   status:           "building",
   focus:            ["AI tooling", "web dev", "backend systems"],
   askMeAbout:       ["TypeScript", "Python", "system design", "APIs"],
@@ -113,7 +113,7 @@ const yuaxx = {
 <div align="center">
 
 [![discordforge.org](https://img.shields.io/badge/discordforge.org-161B22?style=for-the-badge&logo=google-chrome&logoColor=white)](https://discordforge.org)
-[![wiretrip.xyz](https://img.shields.io/badge/wiretrip.xyz-161B22?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wiretrip.xyz)
+[![wiretrip.lol](https://img.shields.io/badge/wiretrip.lol-161B22?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wiretrip.lol)
 [![Discord](https://img.shields.io/badge/yuaxsa-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yuaxsa)
 [![Email](https://img.shields.io/badge/yuax99@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yuax99@proton.me)
 
