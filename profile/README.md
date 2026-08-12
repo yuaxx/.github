@@ -77,12 +77,9 @@ const yuaxx = {
 ### stats
 
 <div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuaxx&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaxx&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
-
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuaxx&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
-
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yuaxx&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=yuaxx&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yuaxx&layout=compact&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=yuaxx&layout=compact&langs_count=4&hide_values=true&theme=dark)
+  
 </div>
 
 ---
@@ -91,7 +88,7 @@ const yuaxx = {
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuax&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&layout=compact"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=yuax&layout=compact&custom_title=what%20is%20grass&langs_count=10&theme=dark)](https://wakatime.com/@yuax)
 
 </div>
 
