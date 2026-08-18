@@ -1,37 +1,3 @@
-<div align="center">
-
-```
-$ whoami
-> yuaxx
-```
-
-# hey, i'm yuaxx
-
-**developer from Poland 🇵🇱**  
-building things, breaking things, learning things
-
-![visitors](https://komarev.com/ghpvc/?username=yuaxx&color=555555&style=flat-square&label=profile%20views)
-
-<a href="https://discord.com/users/1180554986686525506">
-  <img src="https://lanyard.cnrad.dev/api/1180554986686525506?theme=dark&bg=0d1117&borderRadius=5px&animated=true" alt="Discord Status" />
-</a> 
-
-</div>
-
----
-
-```ts
-const yuaxx = {
-  location:         "Poland",
-  websites:         ["discordforge.org", "wiretrip.lol"],
-  status:           "building",
-  focus:            ["AI tooling", "web dev", "backend systems"],
-  askMeAbout:       ["TypeScript", "Python", "system design", "APIs"],
-};
-```
-
----
-
 ### what i work with
 
 <div align="left">
